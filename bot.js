@@ -59,4 +59,4 @@ function ipCommand(message) { // Handle IP command
     message.reply(response);
 }
 
-// Credit to Tsumii_#7888 for creating this
+// Credit to Tsumii_#7888 for creating this mess
